@@ -1,4 +1,8 @@
-# Gas-Station-Dashboard
-A dashboard for gas stations that displays data such as sales, transaction rates and times, and links them to more than one station and displays details about them through the List button.
-I would be happy to hear your opinions about the site in general
-Thank you :)
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
